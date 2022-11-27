@@ -13,8 +13,7 @@ string[] array = new string[m];
     {
         if (array[j].Length <= 3)
         {
-           
-            Console.WriteLine(array[j]); 
+            Console.WriteLine(array[j]);
         }   
     }
 }
